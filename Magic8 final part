@@ -1,7 +1,7 @@
 import random
 
 name = "Joe"
-question = "kkkkkk"
+question = "Will I win?"
 answer = ""
 
 random_number = random.randint(1, 11)
